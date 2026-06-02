@@ -26,7 +26,7 @@ Fulfillment Efficiency:y12 Daysys** on average to successfully deliver an order.
 
 *As seen in file 1000536148.jpg*
 
-![Sales Analysis Dashboard](/Power%20BI/Sales-Analysis--Power-BI-Dashboard/sales%20analysis%20dashboard%20power.jpg)
+![Sales Analysis Dashboard](Image/sales%20analysis%20dashboard%20power.jpg)
 
 ### 1. Advanced Filtering & Slicers (Top Pane)
 *   Equipped with dynamic drop-down slicers DateteProductct**, Regional Groupup** to allow cross-filtering across the entire data model.
