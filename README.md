@@ -2,8 +2,6 @@
 
 A comprehensive, interactive Power BI dashboard designed to analyze and evaluate corporate sales performance, order fulfillment cycles, and financial metrics. This enterprise-grade solution transforms raw sales transactions into actionable strategic insights, focusing on revenue health, operational efficiency, and regional distribution.
 
-🔗 [View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/7a8be7ff-51f5-4f41-8be8-521c59d2e4cb/reports/e01b3e52-beec-4c6f-8f43-69b901528755/e3e3b64934be1932d75e?experience=power-bi)
-
 ---
 
 ## 📊 Business Intelligence & Dashboard Overview
@@ -51,8 +49,3 @@ UI/UX Design: High-end report interface utilizing modern shadow containers, cust
 
 ---
 
-## 🚀 How to Interact with the Dashboard
-
-1. Click [Power BI Service Link](https://app.powerbi.com/groups/7a8be7ff-51f5-4f41-8be8-521c59d2e4cb/reports/e01b3e52-beec-4c6f-8f43-69b901528755/e3e3b64934be1932d75e?experience=power-bi)
-2. Use the Slicers at the top to isolate specific time frames or product categories.
-3. Hover over visual elements to trigger interactive tooltips, or click on any chart segment (e.g., "Bikes" or "North America") to cross-highlight related metrics across the entire dashboard page.
